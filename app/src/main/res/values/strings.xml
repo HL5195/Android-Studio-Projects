@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">GradRSVP</string>
+    <string name="app_name">Grad RSVP</string>
+    <string name="title"> Howard\'s Graduation Announcement</string>
+    <string name="gradCap">Graduation Cap</string>
+    <string name="gradCapDescription">Graduation Cap</string>
+
 </resources>
